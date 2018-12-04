@@ -64,17 +64,17 @@ Development Contents
 Key Application Technologies
 -----------------------------
 
--Customized NLU: 기존 자연어 분석의 NLU를 security 분야로 customize합니다.
--Pattern Matching: 수집(Crawling)된 테스트 케이스와 개발자의 코드를 비교 시 사용합니다.
--Crawling: 보안사건 케이스들을 수집합니다.
+- Customized NLU: 기존 자연어 분석의 NLU를 security 분야로 customize합니다. <br>
+- Pattern Matching: 수집(Crawling)된 테스트 케이스와 개발자의 코드를 비교 시 사용합니다.<br>
+- Crawling: 보안사건 케이스들을 수집합니다.<br>
 
 <br><br>
 Development Environment
 ------------------------
--Windows10 / Ubuntu-Bionic Beaver
--Pycharm, Visual Studio 14.0, Eclipse etc
--Python, JSP, Node.js etc
--MySQL 5.7
+- Windows10 / Ubuntu-Bionic Beaver <br>
+- Pycharm, Visual Studio 14.0, Eclipse etc <br>
+- Python, JSP, Node.js etc <br>
+- MySQL 5.7
 
 <br><br>
 Demonstration video
