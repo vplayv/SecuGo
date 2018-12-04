@@ -34,6 +34,8 @@ Development Background
 >-  IT의 소비화 라고 불려 질만큼, 대량의 데이터가 발생. 그로인한 많은 사이버 공격 또한 증가하는 추세입니다.
 >-  IBM X-Force 테크 보고서에 따르면, 신규 취약요소 중 41%는 웹 어플리케이션에서 발생한다고 합니다. 또한, 이미 알려진 XSS 및 SQL Injection과 같은 취약점도 계속해서 증가하는 추세입니다.
 <br><br>
+
+
 Characteristics
 ---------------
 - Some sort of Secure coding tool designed to help developers develop.
@@ -43,6 +45,8 @@ Characteristics
 >- 개발자의 코드에 대해 위협이 존재할 수 있는 부분들에 대한 코멘트를 제공합니다.
 >- 코딩 가이드를 제공해줌으로서 위협으로부터 실시간으로 안전한 코딩을 구현할 수 있습니다.
 <br><br>
+
+
 Development Contents
 ----------------------
 
